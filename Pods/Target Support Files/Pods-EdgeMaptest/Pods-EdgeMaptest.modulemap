@@ -1,0 +1,6 @@
+framework module Pods_EdgeMaptest {
+  umbrella header "Pods-EdgeMaptest-umbrella.h"
+
+  export *
+  module * { export * }
+}
