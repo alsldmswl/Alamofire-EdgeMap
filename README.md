@@ -7,7 +7,7 @@
 * 사용기술
 
 
-  <img src = "https://user-images.githubusercontent.com/82255206/221416181-33a9e911-05f4-424a-bbdb-f8530364e598.png" width="100" height="100"/> <img src = "https://user-images.githubusercontent.com/82255206/221425212-a95e4a7f-2b77-4cd9-8975-b0c7fa751983.png" width="100" height="100"/> <img src = "https://user-images.githubusercontent.com/82255206/221425216-55a32ff4-c8c8-4e7b-a452-44238333813e.png" width="100" height="100"/>  
+  <img src = "https://user-images.githubusercontent.com/82255206/221416181-33a9e911-05f4-424a-bbdb-f8530364e598.png" width="100" height="100"/> <img src = "https://user-images.githubusercontent.com/82255206/221425212-a95e4a7f-2b77-4cd9-8975-b0c7fa751983.png" width="100" height="130"/> <img src = "https://user-images.githubusercontent.com/82255206/221425216-55a32ff4-c8c8-4e7b-a452-44238333813e.png" width="100" height="130"/>  
   
   
 * 개발환경
