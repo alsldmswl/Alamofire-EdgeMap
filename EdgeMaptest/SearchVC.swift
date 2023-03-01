@@ -148,6 +148,7 @@ extension SearchVC: UICollectionViewDelegate, UICollectionViewDataSource {
                     let jsonData = try JSONSerialization.data(withJSONObject: res, options: .prettyPrinted)
                     let json = try JSONDecoder().decode(Response.self, from: jsonData)
                     
+                    // 랜덤 추천 산책로
                     cell.label.text = json.response.body.items.item[Int.random(in: 1...269)].crsKorNm
                     cell.tvContents.text = json.response.body.items.item[Int.random(in: 1...269)].crsContents
                 } catch(let error) {
